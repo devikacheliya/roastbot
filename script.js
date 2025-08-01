@@ -1,10 +1,16 @@
 const roastLines = [
-  "You studied \"${h}\" hours?.",
+  "You studied \"${h}\" hours? That's cute. Was that with or without the naps?",
   "\"${c}\" chapters? My grandma reads more just checking her WhatsApp forwards.",
   "Were you studying or just admiring the textbook cover?",
   "Even background characters in anime have more motivation.",
   "Studying like that? Even YouTube ads last longer than your focus.",
+  "If procrastination were a sport, you'd have gold medals by now.",
+  "Your study strategy is basically vibes and wishful thinking.",
+  "At this rate, even ChatGPT is gonna pass before you do.",
+  "You're not studying, you're just making the books feel less lonely.",
+  "I've seen more effort from toddlers trying to lie about brushing teeth."
 ];
+
 
 const gaslightLines = [
   "Oh wow, you studied \"${c}\" chapters? So proud of you! ...But wait, shouldn’t you be doing double that?",
