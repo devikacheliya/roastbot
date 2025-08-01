@@ -1,0 +1,37 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Give Me My L</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="mainPage">
+    <h1>📚 Get Roasted for Studying! 💀</h1>
+    <input type="number" id="chapters" placeholder="Chapters Studied">
+    <input type="number" id="hours" placeholder="Hours Studied">
+    <button onclick="goToModes()">Give Me My L 😵</button>
+  </div>
+
+  <div id="modePage" style="display:none; text-align:center">
+    <h2>Pick Your Doom 🔥</h2>
+    <button class="mode-button" onclick="startChat('roast')">Roast Mode 🔥</button>
+    <button class="mode-button" onclick="startChat('gaslight')">Gaslight Mode 🧠</button>
+    <button class="mode-button" onclick="startChat('amma')">Motivation Mode (Ft. Amma) 👩‍👦</button>
+    <button onclick="goBack()">🔙 Back</button>
+  </div>
+
+  <div id="chatPage">
+    <h2>💬 Chat With Your Judgement Bot</h2>
+    <div id="chatBox"></div>
+    <button onclick="sendMore()">Roast Me Again 😩</button>
+    <button onclick="location.reload()">🔙 Back to Start</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
