@@ -10,8 +10,6 @@ const gaslightLines = [
   "Oh wow, you studied \"${c}\" chapters? So proud of you! ...But wait, shouldn’t you be doing double that?",
   "You're doing your best! But... is your best really enough?",
   "Proud of you... kind of. Could've tried harder though.",
-  "You think that was effort? That was barely warm-up level.",
-  "Hmm, interesting strategy—doing the bare minimum and hoping for miracles."
 ];
 
 const ammaLines = [
