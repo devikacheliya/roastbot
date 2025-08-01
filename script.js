@@ -4,9 +4,6 @@ const roastLines = [
   "You're like the free trial of a student. All the basic features, none of the premium results.",
   "Even background characters in anime have more motivation.",
   "Studying like that? Even YouTube ads last longer than your focus.",
-  "Are you sure you're not revising how to waste time instead?",
-  "Are you actively trying to fail, or does this level of incompetence come naturally?",
-  "10 minutes? That’s not effort — that’s dry humping productivity"
 ];
 const gaslightLines = [
   "Oh wow, you studied \"${c}\" chapters? So proud of you! ...But wait, shouldn’t you be doing double that?",
