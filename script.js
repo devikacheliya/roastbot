@@ -19,8 +19,9 @@ const gaslightLines = [
 const ammaLines = [
   "*Malayali mom voice*: ninekondu oru upakaravum undavilalo adishyamulla karyam alla",
   "Ninne okke valarthunathinu pakaram oru vazha natta mathiyayirunnu",
-  "Ente makane! Ivide nokku! Padikku!",
+  "Ninne pole oru kuttiye kittiyathu ente thalla vidhiya, enthu cheyan",
   "Kudumbathinthe peru pookanayi jannichatha, oru upakarathinum undavila",
+  "Nee vanathoodu koodi veedidnthe shantiyum samadhanavum poyi, thripttiyayille"
 ];
 
 let currentMode = '';
