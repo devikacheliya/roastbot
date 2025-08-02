@@ -1,23 +1,19 @@
 const roastLines = [
-  "You studied \"${h}\" hours? That’s not studying — that’s foreplay for procrastination.",
-  "\"${c}\" chapters?You're the reason they put instructions on shampoo bottles. That's the level of brainpower we're dealing with.",
-  "10 minutes? That’s not effort — that’s dry humping productivity",
-  "You're like the free trial of a student. All the basic features, none of the premium results.",
+  "You studied \"${h}\" hours? That's cute. Was that with or without the naps?",
   "Even background characters in anime have more motivation.",
   "Studying like that? Even YouTube ads last longer than your focus.",
   "If procrastination were a sport, you'd have gold medals by now.",
-  "Are you actively trying to fail, or does this level of incompetence come naturally?",
-  "Your study strategy is basically vibes and wishful thinking.",
-  "At this rate, even ChatGPT is gonna pass before you do.",
-  "You're not studying, you're just making the books feel less lonely.",
-  "I've seen more effort from toddlers trying to lie about brushing teeth."
+  "I've seen more efforts toddler put into brushing their teeth"
 ];
 
 
 const gaslightLines = [
   "Oh wow, you studied \"${c}\" chapters? So proud of you! ...But wait, shouldn’t you be doing double that?",
-  "You're doing your best! But... is your best really enough?",
-  "Proud of you... kind of. Could've tried harder though."
+  "No, you're not a failure. A failure at least tried. You’re more like an accidental background character in your own life.",
+  "It’s okay if you’re not the main character. But damn, you’re not even in the blooper reel.",
+  "Proud of you... kind of. Could've tried harder though.",
+  "You think you’re tired from studying? No. That’s your body reacting to the weight of generational disappointment."
+
 ];
 
 const ammaLines = [
@@ -25,7 +21,7 @@ const ammaLines = [
   "Kuthiyittu irunnalum 1st rank kittiyirunnu! 😤",
   "Ente makane! Ivide nokku! Padikku!",
   "Karyam illatha kalam kazhinju! Ini enthinu phone venam?! 📱🚫",
-  "Ombathu masam ninne chumanthu ithinano"
+  "Thottu kalanju kazhiyumbo mathram manassu varum alle? 😠"
 ];
 
 let currentMode = '';
