@@ -1,5 +1,5 @@
 const roastLines = [
-  "You studied \"${h}\" hours? That's cute. Was that with or without the naps?",
+  "You studied \"${h}\" hours? that's not studying, that's foreplay for procrastination ",
   "Even background characters in anime have more motivation.",
   "Studying like that? Even YouTube ads last longer than your focus.",
   "If procrastination were a sport, you'd have gold medals by now.",
@@ -8,11 +8,12 @@ const roastLines = [
 
 
 const gaslightLines = [
-  "Oh wow, you studied \"${c}\" chapters? So proud of you! ...But wait, shouldn’t you be doing double that?",
   "No, you're not a failure. A failure at least tried. You’re more like an accidental background character in your own life.",
   "It’s okay if you’re not the main character. But damn, you’re not even in the blooper reel.",
+  "You think you’re tired from studying? No. That’s your body reacting to the weight of generational disappointment.",
   "Proud of you... kind of. Could've tried harder though.",
-  "You think you’re tired from studying? No. That’s your body reacting to the weight of generational disappointment."
+  "Oh wow, you studied \"${c}\" chapters? So proud of you! ...But wait, shouldn’t you be doing double that?",
+ 
 
 ];
 
