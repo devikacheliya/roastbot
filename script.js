@@ -17,11 +17,10 @@ const gaslightLines = [
 ];
 
 const ammaLines = [
-  "*Malayali mom voice*: Ithra samayam padichu ithu mathram? Enikku oru shame aanu. 😡",
-  "Kuthiyittu irunnalum 1st rank kittiyirunnu! 😤",
+  "*Malayali mom voice*: ninekondu oru upakaravum undavilalo adishyamulla karyam alla",
+  "Ninne okke valarthunathinu pakaram oru vazha natta mathiyayirunnu",
   "Ente makane! Ivide nokku! Padikku!",
-  "Karyam illatha kalam kazhinju! Ini enthinu phone venam?! 📱🚫",
-  "Thottu kalanju kazhiyumbo mathram manassu varum alle? 😠"
+  "Kudumbathinthe peru pookanayi jannichatha, oru upakarathinum undavila",
 ];
 
 let currentMode = '';
